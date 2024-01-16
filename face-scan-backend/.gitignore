@@ -1,0 +1,4 @@
+__pycache__/
+filenames.pkl
+embedding.pkl
+venv/
